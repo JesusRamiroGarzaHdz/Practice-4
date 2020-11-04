@@ -64,4 +64,4 @@ Se realizará un screenshoot de cada una de la resolución de cada uno de los pr
 explicando la solución y ejecutandola para validar su comprobación.
 
 ## Conclusion
-En esta sección, deberás añadir las conclusiones, sugerencias y/o problemas de las actividades de laboratorio. 
+Esta fue una práctica bastante retadora para mi debido a que yo en lo personal, no estoy muy acostumbrado a usar lenguaje c para programar y mucho menos sin poder hacer uso de operaciones aritméticas o comandos simples. Siento que hubiera sido más fácil para mi entender el tema si hubieramos comenzado los codigos en clase para acabarlos nosotros después, ya que debido a que no vimos más que 1 en clase tuve que recurrir mucho a internet para averiguar como construir correctamente mis funciones y aún con esto siento que me quedan algunas dudas del funcionamiento de las operaciones qe modifican bits. El ejercicio más complicado sin lugar a dudas fue el de la secuencia de Gray Code y fue el que más tiempo me llevó terminar, sin embargo al final logré que funcionara correctamente.  
